@@ -4,14 +4,14 @@ base_model: distilbert-base-uncased
 tags:
 - generated_from_keras_callback
 model-index:
-- name: rezabarati/covid_qa_model
+- name: sepidehhasani/covid_qa_model
   results: []
 ---
 
 <!-- This model card has been generated automatically according to the information Keras had access to. You should
 probably proofread and complete it, then remove this comment. -->
 
-# rezabarati/covid_qa_model
+# SepHas/covid_qa_model
 
 This model is a fine-tuned version of [distilbert-base-uncased](https://huggingface.co/distilbert-base-uncased) on an unknown dataset.
 It achieves the following results on the evaluation set:
